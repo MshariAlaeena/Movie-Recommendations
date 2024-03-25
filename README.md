@@ -3,8 +3,9 @@
 movies based on user input, enriching viewers' experiences by introducing them to similar films.
   
 - **API Integration**: Despite the discontinuation of the TasteDive API, the project highlights effective API integration, showcasing:
-  • Initial use of TasteDive for fetching movie suggestions.
-  • Utilization of the OMDB API for detailed movie data, including Rotten Tomatoes ratings.
+  - Initial use of TasteDive for fetching movie suggestions.
+  - Utilization of the OMDB API for detailed movie data, including Rotten Tomatoes ratings.
+    
   
 - **Data Handling**: Demonstrates proficiency in handling JSON data and manipulating complex data structures in Python to process and present movie recommendations.
 
