@@ -1,5 +1,5 @@
 
-- **Project Overview: Developed in Python, this movie recommendation engine used the TasteDive API (which is no longer operational) to suggest 
+- **Project Overview**: Developed in Python, this movie recommendation engine used the TasteDive API (which is no longer operational) to suggest 
 movies based on user input, enriching viewers' experiences by introducing them to similar films.
   
 - **API Integration**: Despite the discontinuation of the TasteDive API, the project highlights effective API integration, showcasing:
